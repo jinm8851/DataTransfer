@@ -22,7 +22,8 @@ import myung.jin.datatrans.databinding.ActivityMainBinding
 * ActivityResultContract 사용 엑티비티에서 결과를 가져올수 있음
 * ActivityResultContracts.RequestMultiplePremissions 여러개의 퍼미션을 한벙에사용
 * ActivityResultContracts..requestPermission 한개의 퍼미션을 사용할때 사용
-* 그레들디펜던시설정 */
+* 그레들디펜던시설정
+* 냉동코더 코드복사 */
 
 class MainActivity : AppCompatActivity() {
     //바인딩을 바이레이즈로 사용하면 스넥바에 적용가능
