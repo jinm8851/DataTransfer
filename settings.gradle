@@ -15,4 +15,8 @@ dependencyResolutionManagement {
 rootProject.name = "DataTransfer"
 include ':app'
 include ':RuntimePermissions'
-include ':datatransout'
+include ':DataTransout'
+include ':Dtransin'
+include ':wifidirectex'
+include ':wifidirect'
+include ':wifidirects'

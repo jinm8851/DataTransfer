@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890430078312",
+    "project_id": "wifidirects",
+    "storage_bucket": "wifidirects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890430078312:android:ac5ee2ca20f258c6d22add",
+        "android_client_info": {
+          "package_name": "myung.jin.wifidirects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890430078312-tbq0d1l1ilfueh23uf3fvo0q3oasai3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myung.jin.wifidirects",
+            "certificate_hash": "439ac0a9e71326f0e17ceabcdfeb2de925679c09"
+          }
+        },
+        {
+          "client_id": "890430078312-sqau3ail8j18cnm3afv4s2erifgl58dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDevnNoFxlS3-m4zwz8nEeT_zCuFbxlt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890430078312-avg4n3aked9bf43vimhtg4d9ppv8gthc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

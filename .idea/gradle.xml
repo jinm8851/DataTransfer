@@ -7,12 +7,17 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DataTransout" />
+            <option value="$PROJECT_DIR$/Dtransin" />
             <option value="$PROJECT_DIR$/RuntimePermissions" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/datatransout" />
+            <option value="$PROJECT_DIR$/wifidirect" />
+            <option value="$PROJECT_DIR$/wifidirectex" />
+            <option value="$PROJECT_DIR$/wifidirects" />
           </set>
         </option>
       </GradleProjectSettings>
